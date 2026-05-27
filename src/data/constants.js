@@ -335,7 +335,7 @@ export const projects = [
       "React Three Fiber",
       "Framer Motion",
       "Styled Components",
-      "EmailJS",
+      "EmailJS"
     ],
     category: "web app",
     github: "https://github.com/ajaysapkale136/3D-Portfolio.git",
