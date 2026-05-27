@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ajaysapkale136",
   resume:
-    "https://drive.google.com/file/d/1A-Hcohb5xduMVX_1pSpuhmMO_b8B3p3z/view?usp=drive_link",
+    "https://drive.google.com/file/d/1kIaLaOsXs1kGNPfGTOeO97ApTn74XiqD/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ajay-sapkale-5352782a2?utm_source=share_via&utm_content=profile&utm_medium=member_android",
   twitter: "",
   insta: "",
@@ -459,7 +459,7 @@ export const projects = [
   {
     id: 7,
     title: "Student Addmission Form",
-    date: "Apr 2024",
+    date: "Mar 2024 - Apr 2024",
     description:
       "This project is a College Website with integrated Admission, Login, and Registration system. It enables users to create accounts, securely log in, and complete admission processes efficiently with a clean and responsive UI. .",
     image:
@@ -472,7 +472,7 @@ export const projects = [
   {
     id: 8,
     title: "Weather Forecast",
-    date: "Feb 2025",
+    date: "Feb 2025 - Mar2025",
     description:
       "A Weather Forecast Web App built with modern web technologies that lets users get real-time weather information for any city or location. It integrates with an external weather API to fetch current conditions like temperature, humidity, wind, and weather descriptions. The app features a search bar for city lookup, responsive UI for all screen sizes, and displays up-to-date weather details dynamically based on user input. This project demonstrates skills in API integration, asynchronous JavaScript, responsive design, and front-end development.",
     image:"https://raw.githubusercontent.com/ajaysapkale136/weather-detection-app/main/Screenshot%202026-03-26%20141820.png",
