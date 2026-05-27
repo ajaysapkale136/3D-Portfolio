@@ -328,7 +328,7 @@ export const projects = [
     date: "Apr 2026 - May 2026",
     description:
       "This project is a modern 3D portfolio website built with React, designed to showcase a developer's skills, experience, and projects.",
-    image: "/Header.jpg",
+    image: "https://raw.githubusercontent.com/ajaysapkale136/3D-Portfolio/3af4254e027c3575707a8bffb610150bca1bf883/src/components/Screenshot%202026-05-27%20234602.png",
     tags: [
       "React Js",
       "Three.js",
@@ -338,8 +338,8 @@ export const projects = [
       "EmailJS",
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/ajaysapkale136/3D-Portfolio.git",
+    webapp: "https://3d-portfolio-sandy-ten.vercel.app/",
   },
 
   {
